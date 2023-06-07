@@ -1,8 +1,4 @@
-# define _CRT_SECURE_NO_WARNINGS
-// 用于去除用户输入警告
-
-// 引入头文件stdio.h  printf函数必须引入该文件
-#include<stdio.h>
+#include<stdio.h>  // 引入头文件stdio.h  printf函数必须引入该文件
 #include"tool.h"
 // 使用尖括号与双引号引入头文件的区别：
 // 尖括号引入是直接到系统头文件中找
